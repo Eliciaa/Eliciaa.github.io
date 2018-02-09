@@ -16,7 +16,7 @@ Sou estudante do curso Programação de Jogos Digitais - 3M!
 
 [JOGO 2 Oficina :] (https://thaynaNmedeiros.github.io/QTBVAR2/)
 
-[JOGO 3 Oficina :] (https://eliciaa.github.io/Pergame/)
+[![](alfajoft.png)] (https://eliciaa.github.io/Pergame/)
 
 ## Artes
 ![Imagens 1](https://br.vexels.com/png-svg/previsualizar/132714/rosto-bruxa-do-gato)
