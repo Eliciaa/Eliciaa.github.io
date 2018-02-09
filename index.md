@@ -21,6 +21,8 @@ Sou estudante do curso Programação de Jogos Digitais - 3M!
 ## Artes
 ![Imagens 1](https://br.vexels.com/png-svg/previsualizar/132714/rosto-bruxa-do-gato)
 
+![](gatinho.png)
+
 ## Apresentações
 * Aula de música 
 * Aula de teatro
