@@ -2,10 +2,8 @@
 layout: default
 ---
 
-criando **minha**, _pagina_,  ~~principal~~.
  
- 
-[![](elicia.jpg)
+[![](foto.jpg)
  
 # Quem sou eu 
 
