@@ -4,6 +4,9 @@ layout: default
 
 criando **minha**, _pagina_,  ~~principal~~.
  
+ 
+[![](elicia.jpg)
+ 
 # Quem sou eu 
 
 Sou estudante do curso Programação de Jogos Digitais - 3M!
