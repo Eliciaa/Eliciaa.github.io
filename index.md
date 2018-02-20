@@ -20,8 +20,10 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 [![](Quem tem.png)]
 
-[JOGO 2 Oficina :] - Terceiro jogo feito na Oficina de Jogos, com a tematica livre . Nome do jogo
+[JOGO 3 Oficina :] - Terceiro jogo feito na Oficina de Jogos, com a tematica livre . Nome do jogo
 [![Pergame](https://eliciaa.github.io/Pergame/)
+
+[!](Pergamee.png)]
 
 
 ## Artes
