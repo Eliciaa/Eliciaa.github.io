@@ -6,8 +6,8 @@ layout: default
 
  ![](foto.jpg)
  
-
 # Portifolis
+
 
 ## Games 
 
