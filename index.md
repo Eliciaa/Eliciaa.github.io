@@ -13,9 +13,12 @@ layout: default
 
 [jOGO 1 Oficina :] - Primeiro jogo feito na oficina de Criação de Jogos, com a tematica sobre cultura
 Nome do jogo : Folclorecult (https://eliciaa.github.io/Folclorecult/)
-[![](folclorecult.png)]
+
+![(folclorecult.png)]
 
 [JOGO 2 Oficina :] - Segundo jogo feito na Oficina de Jogos, com a tematica mensagem. Nome do jogo : Quem Tem Boca Vai a Roma (https://thaynaNmedeiros.github.io/QTBVAR2/)
+
+![Quem tem.png]
 
 
 [![](alfajoft.png)] (https://eliciaa.github.io/Pergame/)
