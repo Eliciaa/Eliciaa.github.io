@@ -12,9 +12,9 @@ layout: default
 ## Games 
 
 [jOGO 1 Oficina :] - Primeiro jogo feito na oficina de Criação de Jogos, com a tematica sobre cultura
-Nome do jogo : Folclorecult (https://eliciaa.github.io/Folclorecult/)
+Nome do jogo : [Folclorecult] (https://eliciaa.github.io/Folclorecult/)
 
-[jOGO](https://eliciaa.github.io/Folclorecult/)
+
 
 [![](folclorecult.png)]
 
