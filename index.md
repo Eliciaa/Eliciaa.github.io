@@ -17,7 +17,7 @@ Nome do jogo : Folclorecult (https://eliciaa.github.io/Folclorecult/)
 [![](folclorecult.png)]
 
 [JOGO 2 Oficina :] - Segundo jogo feito na Oficina de Jogos, com a tematica mensagem. Nome do jogo : Quem Tem Boca Vai a Roma (https://thaynaNmedeiros.github.io/QTBVAR2/)
-[![](Quem tem.png)]
+![](Quem tem.png)
 
 
 [![](alfajoft.png)] (https://eliciaa.github.io/Pergame/)
