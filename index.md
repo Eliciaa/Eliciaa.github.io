@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+# Quem sou eu?
+ Sou Elicia Porpino, estudande do Curso de Programação de Jogos Digitas- Ensino Médio-Tecnico!
  
 [![](foto.jpg)
  
