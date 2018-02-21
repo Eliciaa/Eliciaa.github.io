@@ -2,15 +2,14 @@
 layout: default
 ---
 # Quem sou eu?
+  ![](foto.jpg)
+  
  Elícia Porpino da Silva, 18.
  Técnica em Programção de Jogos Digitais(IFRN-Ceará-Mirim/RN).
- 
- # Contatos:
+ Contatos:
    Email: eliciaporpino@gmail.com
    Facebook: Elicia Porpino
    Instagram: elicia_porpino
-
- ![](foto.jpg)
  
 # Portifolis
 
