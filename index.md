@@ -8,8 +8,7 @@ layout: default
  Técnica em Programção de Jogos Digitais(IFRN-Ceará-Mirim/RN).
  
   Contatos:
-   Email:
-   eliciaporpino@gmail.com
+  Email:eliciaporpino@gmail.com
    
    Facebook: Elicia Porpino
    
