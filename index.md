@@ -2,7 +2,13 @@
 layout: default
 ---
 # Quem sou eu?
- Chamo Elicia Porpino, estudande do IFRN, no Curso Programação de Jogos Digitais, do Campus de Ceará-Mirim!
+ Elícia Porpino da Silva, 18.
+ Técnica em Programção de Jogos Digitais(IFRN-Ceará-Mirim/RN).
+ 
+ # Contatos:
+   Email: eliciaporpino@gmail.com
+   Facebook: Elicia Porpino
+   Instagram: elicia_porpino
 
  ![](foto.jpg)
  
