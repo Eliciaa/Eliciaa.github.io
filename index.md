@@ -2,7 +2,7 @@
 layout: default
 ---
 # Quem sou eu?
- Sou Elicia Porpino, estudande do Curso de Programação de Jogos Digitas- Ensino Médio-Tecnico!
+ Chamo Elicia Porpino, estudande do IFRN, no Curso Programação de Jogos Digitais, do Campus de Ceará-Mirim!
 
  ![](foto.jpg)
  
