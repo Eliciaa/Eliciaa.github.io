@@ -58,7 +58,7 @@ Preguiça Studio.
 ![](PREGUIÇA.png)
 
 ## Apresentações
- Ainda não tenho nenhum projeto submetidpo fora do campus!
+ Ainda não tenho nenhum projeto submetido!
  Mas, em breve terá, com certeza!!
 
 * * *
