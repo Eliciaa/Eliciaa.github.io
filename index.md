@@ -36,16 +36,34 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 
 ## Artes
-![Imagens 1](https://br.vexels.com/png-svg/previsualizar/132714/rosto-bruxa-do-gato)
+Artes em pixel!
 
-![](gatinho.png)
+Gatinha!
+
+![](gatinha.png) 
 
 Influence Map - Arte feita na disciplina de Motores!
 
 ![](influence-map.jpg)
 
+
+# Impresas que já atuei!
+
+Alfajft.
+
+![](alfajoft1.png)
+
+Preguiça Studio.
+
+![](PREGUIÇA.png)
+
+
+Élice.
+
+![](elice.png)
+
 ## Apresentações
- Ainda não tenho nenhum projeto submetidpo fora do campus!
+ Ainda não tenho nenhum projeto submetido!
  Mas, em breve terá, com certeza!!
 
 * * *
