@@ -40,6 +40,10 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 ![](gatinho.png)
 
+Influence Map - Arte feita na disciplina de Motores!
+
+![](influence-map.jpg)
+
 ## Apresentações
 * Aula de música 
 * Aula de teatro
