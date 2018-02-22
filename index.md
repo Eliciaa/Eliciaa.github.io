@@ -36,6 +36,8 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 
 ## Artes
+Artes em pixel!
+
 Gatinha!
 
 ![](gatinha.png) 
