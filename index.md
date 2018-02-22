@@ -46,6 +46,11 @@ Influence Map - Arte feita na disciplina de Motores!
 
 ![](influence-map.jpg)
 
+
+# Impresas que já atuei!
+
+
+
 ## Apresentações
  Ainda não tenho nenhum projeto submetidpo fora do campus!
  Mas, em breve terá, com certeza!!
