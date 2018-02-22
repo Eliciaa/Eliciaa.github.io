@@ -45,13 +45,9 @@ Influence Map - Arte feita na disciplina de Motores!
 ![](influence-map.jpg)
 
 ## Apresentações
-* Aula de música 
-* Aula de teatro
-* Aula de Jogos
-1. Marcelo 
-2. Tiago
-3. Durval
- 
+ Ainda não tenho nenhum projeto submetidpo fora do campus!
+ Mas, em breve terá, com certeza!!
+
 * * *
 
 
