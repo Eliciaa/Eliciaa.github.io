@@ -15,7 +15,7 @@ layout: default
    
    Instagram: elicia_porpino
  
-# Portifolis
+# Portifolio
 
 
 ## Games 
