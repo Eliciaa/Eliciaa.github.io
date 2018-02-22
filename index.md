@@ -15,7 +15,7 @@ layout: default
    
    Instagram: elicia_porpino
  
-# Portifolis
+# Portifolio
 
 
 ## Games 
@@ -35,8 +35,14 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 [![](Pergamee.png)]
 
 
+# Projeto Integrador
+
+[Imuno Defense](https://eliciaa.github.io/imuno/)
+
+![](imuno.png) 
+
 ## Artes
-Artes em pixel!
+Artes em pixel!1
 
 Gatinha!
 
@@ -64,7 +70,7 @@ Preguiça Studio.
 
 ## Apresentações
  Ainda não tenho nenhum projeto submetido!
- Mas, em breve terá, com certeza!!
+ Mas, em breve terá, com certeza!
 
 * * *
 
