@@ -51,7 +51,7 @@ Influence Map - Arte feita na disciplina de Motores!
 
 Alfajft.
 
-![](alfajoft.png)
+![](alfajoft1.png)
 
 Preguiça Studio.
 
