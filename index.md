@@ -57,6 +57,11 @@ Preguiça Studio.
 
 ![](PREGUIÇA.png)
 
+
+Élice.
+
+![](elice.png)
+
 ## Apresentações
  Ainda não tenho nenhum projeto submetido!
  Mas, em breve terá, com certeza!!
