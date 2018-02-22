@@ -70,7 +70,7 @@ Preguiça Studio.
 
 ## Apresentações
  Ainda não tenho nenhum projeto submetido!
- Mas, em breve terá, com certeza!!
+ Mas, em breve terá, com certeza!
 
 * * *
 
