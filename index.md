@@ -36,9 +36,9 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 
 ## Artes
-![Imagens 1](https://br.vexels.com/png-svg/previsualizar/132714/rosto-bruxa-do-gato)
+Gatinha!
 
-![](gatinho.png)
+![](gatinha.png) 
 
 Influence Map - Arte feita na disciplina de Motores!
 
