@@ -53,6 +53,10 @@ Alfajft.
 
 ![](alfajoft.png)
 
+Preguiça Studio.
+
+![](PREGUIÇA.png)
+
 ## Apresentações
  Ainda não tenho nenhum projeto submetidpo fora do campus!
  Mas, em breve terá, com certeza!!
