@@ -49,7 +49,9 @@ Influence Map - Arte feita na disciplina de Motores!
 
 # Impresas que já atuei!
 
+Alfajft.
 
+![](alfajoft.png)
 
 ## Apresentações
  Ainda não tenho nenhum projeto submetidpo fora do campus!
