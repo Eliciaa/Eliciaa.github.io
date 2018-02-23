@@ -35,7 +35,7 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 ![](Pergamee.png)
 
 # Mockup
-  Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017. Com a proposta de tema mistério. ![Mockup](https://eliciaa.github.io/mockup/)
+  Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017. Com a proposta de tema mistério. [Mockup](https://eliciaa.github.io/mockup/)
 
 ![](misterio.png)
 
@@ -84,7 +84,7 @@ Preguiça Studio.
  
  Projeto relacionado a Ética Ambiental, que foi proposto pelo professor Jorge Lima. O projeto foi elaborado pela turma Jogos Digitais, 2015.1. Esse slide está relacionado as artes do projeto. 
  
- ![Projeto](projeto.pdf)
+ [Projeto](projeto.pdf)
  
 
 * * *
