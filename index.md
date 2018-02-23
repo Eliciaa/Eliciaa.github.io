@@ -37,7 +37,7 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 # Mockup
   Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017. Com a proposta de tema mistério. [Mockup](https://eliciaa.github.io/mockup/)
 
-![](misterio.png)
+   ![](misterio.png)
 
 
 
