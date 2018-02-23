@@ -53,6 +53,9 @@ Influence Map - Arte feita na disciplina de Motores!
 ![](influence-map.jpg)
 
 
+
+![](1--desenho-completo(animação-andando)gii.gif)
+
 # Impresas que já atuei!
 
 Alfajft.
