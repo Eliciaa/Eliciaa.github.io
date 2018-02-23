@@ -34,6 +34,13 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 ![](Pergamee.png)
 
+# Mockup
+  Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017.
+
+![](misterio.png)
+
+![](https://eliciaa.github.io/mockup/)
+
 
 # Projeto Integrador
   O projeto realizado tem como propósito um jogo que retrata a defesa do organismo humano a respeito das bactérias e vírus. A relevância do tema se dá a partir do fato de que o conhecimento do sistema imunológico permite ao indivíduo saber como funciona a defesa do corpo humano contra corpos estranhos e agentes patológicos. O funcionamento do sistema imune consiste na resposta coletiva e coordenada das células e moléculas diante dos agentes estranhos, isto caracteriza a resposta imune.
