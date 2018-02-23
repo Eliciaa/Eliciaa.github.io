@@ -9,7 +9,7 @@ layout: default
  
   Contatos:
   
-  Email:eliciaporpino@gmail.com
+  Email: eliciaporpino@gmail.com
    
    Facebook: [Elicia Porpino](https://www.facebook.com/)
    
