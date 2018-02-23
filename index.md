@@ -54,7 +54,7 @@ Influence Map - Arte feita na disciplina de Motores!
 
 
    # Animação
-
+   
 ![](1--desenho-completo(animação-andando)gii.gif)
 
    # Impresas que já atuei!
