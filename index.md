@@ -91,19 +91,4 @@ Preguiça Studio.
 
 
 
-** negrito
 
-_ italico
-
-~~ riscando
-
-  dois espaços p/ pular linha
- 3 * adiciona uma linha horizontal
- #s uma ou mais hastags criam capítulos ou sub 
- 
- *s asteriscos adiciona uma lista não numerada 
- 
- 1s numeros adicionsm ums lista numerada 
- 
- 
- * * *
