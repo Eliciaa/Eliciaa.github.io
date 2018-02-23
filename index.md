@@ -35,11 +35,11 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 ![](Pergamee.png)
 
 # Mockup
-  Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017.
+  Projeto realizado na discipina de Oficina, último projeto do ano letivo de 2017. ![Mockup](https://eliciaa.github.io/mockup/)
 
 ![](misterio.png)
 
-![](https://eliciaa.github.io/mockup/)
+
 
 
 # Projeto Integrador
