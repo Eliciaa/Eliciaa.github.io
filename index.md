@@ -15,7 +15,7 @@ layout: default
    
    Instagram: [elicia_porpino](https://www.instagram.com/)
  
-# Portifolio
+# Portfolio
 
 
 ## Games 
