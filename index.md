@@ -78,7 +78,7 @@ Preguiça Studio.
  Projeto relacionado a Ética Ambiental, que foi proposto pelo professor Jorge Lima. O projeto foi elaborado pela turma Jogos Digitais, 2015.1. Esse slide está relacionado as artes do projeto. 
  
  
- ![projeto](s1.pdf)
+![Projeto](projeto.pdf)
  
 
 * * *
