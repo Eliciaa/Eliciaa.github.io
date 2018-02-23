@@ -41,7 +41,7 @@ Nome do jogo : [Folclorecult](https://eliciaa.github.io/Folclorecult/)
 
 ![](imuno.png) 
 
-## Artes
+  ## Artes
 Artes em pixel!1
 
 Gatinha!
@@ -53,11 +53,11 @@ Influence Map - Arte feita na disciplina de Motores!
 ![](influence-map.jpg)
 
 
-# Animação
+   # Animação
 
 ![](1--desenho-completo(animação-andando)gii.gif)
 
-# Impresas que já atuei!
+   # Impresas que já atuei!
 
 Alfajft.
 
